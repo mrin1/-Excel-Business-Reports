@@ -1,6 +1,8 @@
 # Atliq-Hardware-Report-Excel
 
 ![AtliQ](https://github.com/Rose1019/Atliq-Hardware-Report-Excel/blob/main/atliq_logo.png)
+![AtliQ](https://github.com/Rose1019/Atliq-Hardware-Report-Excel/blob/main/atliq_logo.png)
+
 
 ## Introduction
 Atliq Hardware is a company that sells computer hardware products to big retailers like CROMA, Flipkart, Staples, and Bestbuy, who then sell them to individual consumers.  
@@ -20,6 +22,7 @@ Build Mock up’s for the following reports:
   	
 2.	#### Market VS Target Performance report ####
   	<img src="MARKET_vs_TARGET_PERFORMANCE_MOCK_UP.png" width="500">
+   
   	
 3.	#### P&L by Fiscal Year ####
   	<img src="P&L_by_Fiscal_Year_MOCK_UP.png" width="500">
