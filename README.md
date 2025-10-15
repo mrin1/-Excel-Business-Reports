@@ -1,7 +1,7 @@
 # Atliq-Hardware-Report-Excel
 
 ![AtliQ](https://github.com/Rose1019/Atliq-Hardware-Report-Excel/blob/main/atliq_logo.png)
-![AtliQ](https://github.com/Rose1019/Atliq-Hardware-Report-Excel/blob/main/atliq_logo.png)
+
 
 
 ## Introduction
